@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m an engineering student at Cairo University
 - 🌱 I’m currently learning Embedded Software Development
-- 📫 How to reach me: Link to [LinjedIn](https://www.linkedin.com/in/ahmed-osama-73a37820a/)
+- 📫 How to reach me: Link to [LinkedIn](https://www.linkedin.com/in/ahmed-osama-73a37820a/)
 <!--
 **AhmedOsamaa/AhmedOsamaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
